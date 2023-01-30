@@ -1,0 +1,4 @@
+[submodule "gatling"]
+	path = gatling
+#//	url = ssh://git@stash.wargaming.net:2222/webperf/gatling.git
+	branch = master
